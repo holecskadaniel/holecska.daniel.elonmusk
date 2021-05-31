@@ -1,0 +1,23 @@
+h3{
+    font-family: 'Crimson Text', serif;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+}
+
+.kep-tesla{
+    width: 100%;
+}
+
+.kep-kor{
+    border:#0dcaf0 5px solid;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.kep-tesla{
+    margin:auto;
+    
+}
